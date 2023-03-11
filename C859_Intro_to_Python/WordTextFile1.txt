@@ -1,0 +1,5 @@
+cat
+chases
+dog
+cat chases dog
+cat chases dog cat chases dog
